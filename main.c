@@ -2,11 +2,12 @@
 
 int main(void)
 {
-	printf("hello, world");
-	printf("hello, universe");
+    printf("hello, world");
+    printf("hello, universe");
+    printf("hello, sea");
 
-	/* test*/
+    /* test 2 */
 
-	return 0;
+    return 0;
 }
 
