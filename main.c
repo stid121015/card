@@ -6,7 +6,7 @@ int main(void)
     printf("hello, universe");
     printf("hello, sea");
 
-    /* test 2 */
+    /* test 3 */
 
     return 0;
 }
